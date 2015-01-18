@@ -18,7 +18,7 @@ Any questions, comments or improvements about the generator should be directed t
 
 ### How this was created
 
-I simply ran the regenerator specifying the subreddit 'vrsites' which is mostly a listing of links that people submit to their Janus rooms.
+I simply ran the regenerator specifying the subreddit 'funny'.
 
 The following is a list of command from start to finish to generate the `/public/index.html` file found in this repository.
 
